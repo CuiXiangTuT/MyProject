@@ -1,0 +1,164 @@
+1631957248020	geckodriver	INFO	Listening on 127.0.0.1:50521
+1631957251049	mozrunner::runner	INFO	Running command: "D:\\FireFox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofileZPh7xy"
+1631957251990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofileZPh7xy\\search.json.mozlz4", (void 0)))
+1631957254311	Marionette	INFO	Listening on port 50532
+1631957254789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 50ms)
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+1631957461134	Marionette	INFO	Stopped listening on port 50532
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+id 0)))
+1631957437373	Marionette	INFO	Listening on port 51133
+1631957437474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631958153513	Marionette	INFO	Stopped listening on port 51133
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+n
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "styleSheet.ownerNode is null"
+console.error: (new TypeError("styleSheet.ownerNode is null", "resource://devtools/server/actors/utils/stylesheets-manager.js", 281))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (TypeError): styleSheet.ownerNode is null from: server0.conn0.child4/styleSheetsActor4 (resource://devtools/server/actors/utils/stylesheets-manager.js:281:7)", "resource://devtools/shared/protocol/Front.js", 362))
+1631957768157	geckodriver	INFO	Listening on 127.0.0.1:51731
+1631957771204	mozrunner::runner	INFO	Running command: "D:\\FireFox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofileT8oACk"
+1631957771495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofileT8oACk\\search.json.mozlz4", (void 0)))
+1631957773093	Marionette	INFO	Listening on port 51740
+1631957773265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nette" "-no-remote" "-profile" "C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofileKb2W89"
+1631957823761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofileKb2W89\\search.json.mozlz4", (void 0)))
+1631957825538	Marionette	INFO	Listening on port 51951
+1631957825559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631958152550	Marionette	INFO	Stopped listening on port 51951
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+id 0)))
+1631957876909	Marionette	INFO	Listening on port 52173
+1631957876990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nette" "-no-remote" "-profile" "C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofilesLR9xV"
+1631957903329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\123\\AppData\\Local\\Temp\\rust_mozprofilesLR9xV\\search.json.mozlz4", (void 0)))
+1631957905109	Marionette	INFO	Listening on port 52376
+1631957905223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://merchant.cnhnb.com/app.8c9f5ac.js, line 76712: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
